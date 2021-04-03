@@ -1,0 +1,19 @@
+.baslik{
+	font-size: 72px;
+	font-weight: 100;
+	text-align: center;
+	color: rgb(181, 164, 72);
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
+.baslik2{
+	width: 100%;
+	font-size: 22px;
+	font-weight: 100;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.30);
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
